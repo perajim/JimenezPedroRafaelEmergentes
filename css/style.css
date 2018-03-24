@@ -1,0 +1,22 @@
+body{
+	background: black;
+	color : white;
+}
+#results{
+	background: black;
+	color:white;
+	margin-top: 10px;
+	margin-left: 20px;
+	width: 1320px;
+	height: 550px;
+	float:left;
+}
+#video{
+	float:left;
+	
+	}
+
+#map{
+	width: 328px;
+	height: 270px;
+}
